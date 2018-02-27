@@ -12,7 +12,7 @@ Add to your `Cargo.toml`
 [package]
 build = "build.rs"
 
-[build-dependencies.protobuf-build]
+[build-dependencies.protobuf_build]
 git = "https://github.com/plietar/rust-protobuf-build.git"
 ```
 
